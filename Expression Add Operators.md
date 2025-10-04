@@ -34,7 +34,9 @@ Explanation: There are no expressions that can be created from "987612" to evalu
 
 ```
 Constraints:
-
+1 ≤ s.size() ≤ 9
+s consists of only digits (0-9).
+-231 ≤ target ≤ 231-1
 
 ```cpp
 
@@ -78,6 +80,4 @@ private:
 
 
 ```
-1 ≤ s.size() ≤ 9
-s consists of only digits (0-9).
--231 ≤ target ≤ 231-1
+
